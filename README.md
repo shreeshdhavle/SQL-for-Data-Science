@@ -8,3 +8,17 @@ This course is designed to give you a primer in the fundamentals of SQL and work
 The couurse will start types of data like strings and numbers and discuss methods to filter and pare down your results. We will create new tables and be able to move data into them. You will learn common operators and how to combine the data. We will use case statements and concepts like data governance and profiling. You will discuss topics on data, and practice using real-world programming assignments. We will interpret the structure, meaning, and relationships in source data and use SQL as a professional to shape your data for targeted analysis purposes. 
 
 Tutorial for additional practise : https://www.tutorialspoint.com/sqlite/index.htm
+
+Extra materials for self Learning:
+
+Week 1:
+1) https://www.thebalance.com/what-is-sql-and-uses-2071909
+2) https://www.ntchosting.com/encyclopedia/databases/structured-query-language/
+
+3) http://dataconomy.com/2014/07/sql-vs-nosql-need-know/
+4) http://www.techrepublic.com/article/nosql-keeps-rising-but-relational-databases-still-dominate-big-data/
+5) https://www.siliconrepublic.com/careers/data-science-skills-sql
+
+Week 2:
+1)
+2)
